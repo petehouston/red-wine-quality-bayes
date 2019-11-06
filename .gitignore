@@ -5,3 +5,4 @@ Thumbs.db
 tmp/
 _tmp/
 temp/
+.ipynb_checkpoints/
